@@ -1,0 +1,79 @@
+.card-notes {
+  background-color: #dce4eb;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.required {
+  color: red;
+}
+
+.alert {
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  margin: 0.5rem;
+}
+
+.alert-container {
+  position: fixed;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  text-align: center;
+}
+
+.addNote_container {
+  max-width: 700px;
+  margin: auto;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  background-color: #dce4eb;
+}
+
+.addNote_container h3 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.addNote_container .form-label {
+  font-weight: bold;
+  color: black;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.btn.button {
+  background-color: silver;
+  font-weight: 700;
+}
+.addNote_container .btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.card-number {
+  font-family: Arial;
+  color: blue;
+}
+
+.edit-icon {
+  color: green;
+}
+
+.delete-icon {
+  color: red;
+}
+
+.feature-details {
+  display: flex;
+  align-items: center;
+}
+
+.feature-icon {
+  margin-right: 10px;
+}
